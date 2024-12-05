@@ -36,3 +36,20 @@ Wireframing is a foundational step in the design process where a skeletal framew
 - Indicates dynamic content areas
 - Example: Search bar functionality, filtering options, and form submissions
 
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Basic sketches and layouts
+- Used early in design process
+- Quick to create and modify
+- Focus on core structure and flow
+
+### High-Fidelity Wireframes
+- Detailed interface elements
+- Used later in design process
+- Include specific content and layout
+- Show interactive elements
+- Close to final design
+
+The Airbnb example shown is a high-fidelity wireframe as it includes detailed UI components, specific layouts, and interactive elements that closely represent the final product.
+
