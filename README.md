@@ -53,3 +53,27 @@ Wireframing is a foundational step in the design process where a skeletal framew
 
 The Airbnb example shown is a high-fidelity wireframe as it includes detailed UI components, specific layouts, and interactive elements that closely represent the final product.
 
+## Wireframing Tools
+
+### Popular Tools
+1. Balsamiq
+2. Adobe XD
+3. Sketch
+4. InVision
+5. Figma
+
+### Figma - Recommended Tool
+- **Key Features**
+  - Real-time collaboration
+  - Cloud-based platform
+  - Component reusability
+  - Easy prototyping
+  - Free tier available
+
+### Why Use Figma?
+- Cross-platform compatibility
+- Simple sharing and feedback
+- Built-in version control
+- Rich component library
+- Extensive plugin ecosystem
+
