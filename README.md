@@ -10,34 +10,6 @@ Wireframing is a foundational step in the design process where a skeletal framew
 - **User-Focused**: Enables early identification of usability issues and interface improvements
 - **Time-Saving**: Streamlines the design process by establishing clear structural guidelines
 
-## Key Elements of Wireframes
-1. Layout Structure
-2. Content Placement
-3. Information Hierarchy
-4. Navigation Systems
-5. User Interface Elements
-
-## Types of Wireframes
-### Low-Fidelity
-- Basic sketches
-- Quick to create
-- Highly flexible
-- Focus on layout and structure
-
-### High-Fidelity
-- More detailed representations
-- Include specific elements
-- Closer to final design
-- Used for refined feedback
-
-## Benefits
-- Improves team collaboration
-- Clarifies project requirements
-- Identifies potential issues early
-- Provides clear development guidance
-- Enhances user experience planning
-
-
 ## Key Elements in Wireframes
 
 ### 1. Layout Structure
@@ -64,8 +36,3 @@ Wireframing is a foundational step in the design process where a skeletal framew
 - Indicates dynamic content areas
 - Example: Search bar functionality, filtering options, and form submissions
 
-## Benefits
-- Improves team collaboration
-- Identifies usability issues early
-- Provides clear development guidance
-- Saves time and resources
