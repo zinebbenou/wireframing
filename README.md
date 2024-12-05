@@ -36,3 +36,36 @@ Wireframing is a foundational step in the design process where a skeletal framew
 - Identifies potential issues early
 - Provides clear development guidance
 - Enhances user experience planning
+
+
+## Key Elements in Wireframes
+
+### 1. Layout Structure
+- Defines page organization and grid system
+- Determines placement of headers, footers, sidebars
+- Sets content hierarchy and visual flow
+- Example: Two-column layout with header navigation and sidebar widget area
+
+### 2. Navigation
+- Shows main menu structure and links
+- Indicates secondary navigation elements
+- Displays breadcrumbs and wayfinding
+- Example: Top horizontal menu bar with dropdown submenus
+
+### 3. Content Placement 
+- Indicates where text blocks will appear
+- Marks image and media locations
+- Shows form fields and input areas
+- Example: Article layout with headline, body text, and featured image zones
+
+### 4. Functionality
+- Highlights interactive elements
+- Shows button placement and actions
+- Indicates dynamic content areas
+- Example: Search bar functionality, filtering options, and form submissions
+
+## Benefits
+- Improves team collaboration
+- Identifies usability issues early
+- Provides clear development guidance
+- Saves time and resources
